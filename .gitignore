@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.env
+.env.*
+!.env.example
+data/
+exports/
+*.db
+*.db-*
+*.sqlite*
+digest*.json
